@@ -1,0 +1,485 @@
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll.config
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.pdb
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.exe
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.exe.config
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.rsp
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\roslyn\csi.exe
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\roslyn\csi.rsp
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.AppContext.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Collections.Immutable.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.exe
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.exe.config
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.rsp
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe.config
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Antlr3.Runtime.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\DataViewModel.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Newtonsoft.Json.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Ninject.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Repository.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Services.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\System.Web.Helpers.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\System.Web.Mvc.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\System.Web.Optimization.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\System.Web.Razor.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\WebApiContrib.IoC.Ninject.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\WebGrease.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\DataViewModel.pdb
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Repository.pdb
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Services.pdb
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Ninject.xml
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.xml
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Newtonsoft.Json.xml
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.xml
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\System.Web.Helpers.xml
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.xml
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.xml
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\System.Web.Mvc.xml
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\System.Web.Optimization.xml
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\System.Web.Razor.xml
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.xml
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.xml
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.xml
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Antlr3.Runtime.pdb
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\obj\Release\RCMSWebAPI.csprojAssemblyReference.cache
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\obj\Release\RCMSWebAPI.csproj.CopyComplete
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\obj\Release\RCMSWebAPI.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\obj\Release\RCMSWebAPI.pdb
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Owin.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.xml
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.xml
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.xml
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.xml
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Project\RCMSAPP\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll.config
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.pdb
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.exe
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.exe.config
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.rsp
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\csi.exe
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\csi.rsp
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.exe
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.exe.config
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.rsp
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Antlr3.Runtime.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\DataViewModel.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Ninject.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Owin.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Repository.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Services.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Helpers.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Mvc.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Optimization.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Razor.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\WebApiContrib.IoC.Ninject.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\WebGrease.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\DataViewModel.pdb
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Repository.pdb
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Services.pdb
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.xml
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.xml
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Ninject.xml
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.xml
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Newtonsoft.Json.xml
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Helpers.xml
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.xml
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Mvc.xml
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Optimization.xml
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Razor.xml
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.xml
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\obj\Release\RCMSWebAPI.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\obj\Release\RCMSWebAPI.csproj.CopyComplete
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\obj\Release\RCMSWebAPI.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\obj\Release\RCMSWebAPI.pdb
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Cors.dll
+C:\Users\acer\source\repos\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.xml
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll.config
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.pdb
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.exe
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.exe.config
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.rsp
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\csi.exe
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\csi.rsp
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.AppContext.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Collections.Immutable.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.exe
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.exe.config
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.rsp
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe.config
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Antlr3.Runtime.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\DataViewModel.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Newtonsoft.Json.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Ninject.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Owin.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Repository.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Services.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Cors.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Helpers.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Mvc.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Optimization.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Razor.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\WebApiContrib.IoC.Ninject.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\WebGrease.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\DataViewModel.pdb
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Repository.pdb
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Services.pdb
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.xml
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.xml
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.xml
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.xml
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.xml
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Ninject.xml
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.xml
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Newtonsoft.Json.xml
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.xml
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Helpers.xml
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.xml
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.xml
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Mvc.xml
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Optimization.xml
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Razor.xml
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.xml
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.xml
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.xml
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Antlr3.Runtime.pdb
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\obj\Release\RCMSWebAPI.csprojAssemblyReference.cache
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\obj\Release\RCMSWebAPI.csproj.CopyComplete
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\obj\Release\RCMSWebAPI.dll
+F:\Project\PNR\RCMSWebAPI\DemoWebAPI\obj\Release\RCMSWebAPI.pdb
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll.config
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.pdb
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.exe
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.exe.config
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.rsp
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\csi.exe
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\csi.rsp
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.AppContext.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Collections.Immutable.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.exe
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.exe.config
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.rsp
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe.config
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Antlr3.Runtime.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\DataViewModel.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Web.Infrastructure.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Newtonsoft.Json.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Ninject.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Owin.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Repository.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Services.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Cors.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Helpers.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Mvc.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Optimization.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Razor.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\WebApiContrib.IoC.Ninject.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\WebGrease.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\DataViewModel.pdb
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Repository.pdb
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Services.pdb
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.xml
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.xml
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.xml
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.xml
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.xml
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Ninject.xml
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.xml
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Newtonsoft.Json.xml
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.xml
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Helpers.xml
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.xml
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.xml
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Mvc.xml
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Optimization.xml
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.Razor.xml
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.xml
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.xml
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.xml
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Antlr3.Runtime.pdb
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\obj\Release\RCMSWebAPI.csprojResolveAssemblyReference.cache
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\obj\Release\RCMSWebAPI.dll
+G:\2021\PNR\RCMSWebAPI\DemoWebAPI\obj\Release\RCMSWebAPI.pdb
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll.config
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.pdb
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.exe
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.exe.config
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.rsp
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csi.exe
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csi.rsp
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.AppContext.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Collections.Immutable.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.exe
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.exe.config
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.rsp
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe.config
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Antlr3.Runtime.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\DataViewModel.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Newtonsoft.Json.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Owin.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Repository.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Services.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Cors.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Helpers.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Mvc.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Optimization.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Razor.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\WebApiContrib.IoC.Ninject.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\WebGrease.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\DataViewModel.pdb
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Repository.pdb
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Services.pdb
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.xml
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.xml
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.xml
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.xml
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.xml
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.xml
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.xml
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Newtonsoft.Json.xml
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.xml
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Helpers.xml
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.xml
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.xml
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Mvc.xml
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Optimization.xml
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Razor.xml
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.xml
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.xml
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.xml
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Antlr3.Runtime.pdb
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\obj\Release\RCMSWebAPI.csprojResolveAssemblyReference.cache
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\obj\Release\RCMSWebAPI.dll
+F:\KoshishKamyaabHo neki\11 Jan 2021\RCMSWebAPI\DemoWebAPI\obj\Release\RCMSWebAPI.pdb

@@ -1,0 +1,1169 @@
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll.config
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.pdb
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.exe
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.exe.config
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.rsp
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csi.exe
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csi.rsp
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.AppContext.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Collections.Immutable.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.exe
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.exe.config
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.rsp
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe.config
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Antlr3.Runtime.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\DataViewModel.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Web.Infrastructure.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Newtonsoft.Json.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Owin.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Repository.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Services.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Cors.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Helpers.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Mvc.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Optimization.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Razor.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\WebApiContrib.IoC.Ninject.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\WebGrease.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\DataViewModel.pdb
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Repository.pdb
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Services.pdb
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.xml
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.xml
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.xml
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.xml
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.xml
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.xml
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.xml
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Newtonsoft.Json.xml
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.xml
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Helpers.xml
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.xml
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.xml
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Mvc.xml
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Optimization.xml
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Razor.xml
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.xml
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.xml
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.xml
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Antlr3.Runtime.pdb
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\obj\Debug\RCMSWebAPI.dll
+G:\dummy\15Jan2021\RCMSWebAPI\DemoWebAPI\obj\Debug\RCMSWebAPI.pdb
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll.config
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.pdb
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.exe
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.exe.config
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.rsp
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csi.exe
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csi.rsp
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.AppContext.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Collections.Immutable.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.exe
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.exe.config
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.rsp
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe.config
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Antlr3.Runtime.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\DataViewModel.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Newtonsoft.Json.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Owin.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Repository.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Services.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Cors.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Helpers.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Mvc.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Optimization.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Razor.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\WebApiContrib.IoC.Ninject.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\WebGrease.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\DataViewModel.pdb
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Repository.pdb
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Services.pdb
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.xml
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.xml
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.xml
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.xml
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.xml
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.xml
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.xml
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Newtonsoft.Json.xml
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.xml
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Helpers.xml
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.xml
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.xml
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Mvc.xml
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Optimization.xml
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Razor.xml
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.xml
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.xml
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.xml
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Antlr3.Runtime.pdb
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\obj\Debug\RCMSWebAPI.dll
+F:\KoshishKamyaabHo neki\15Jan2021\RCMSWebAPI\DemoWebAPI\obj\Debug\RCMSWebAPI.pdb
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll.config
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.pdb
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.exe
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.exe.config
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.rsp
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csi.exe
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csi.rsp
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.AppContext.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Collections.Immutable.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.exe
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.exe.config
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.rsp
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe.config
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Antlr3.Runtime.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\DataViewModel.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Web.Infrastructure.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Newtonsoft.Json.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Owin.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Repository.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Services.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Cors.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Helpers.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Mvc.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Optimization.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Razor.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\WebApiContrib.IoC.Ninject.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\WebGrease.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\DataViewModel.pdb
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Repository.pdb
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Services.pdb
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.xml
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.xml
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.xml
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.xml
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.xml
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.xml
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.xml
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Newtonsoft.Json.xml
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.xml
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Helpers.xml
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.xml
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.xml
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Mvc.xml
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Optimization.xml
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Razor.xml
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.xml
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.xml
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.xml
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Antlr3.Runtime.pdb
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\obj\Debug\RCMSWebAPI.dll
+G:\dummy\20 January 2021\RCMSWebAPI\DemoWebAPI\obj\Debug\RCMSWebAPI.pdb
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll.config
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.pdb
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.exe
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.exe.config
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.rsp
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csi.exe
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csi.rsp
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.AppContext.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Collections.Immutable.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.exe
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.exe.config
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.rsp
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe.config
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Antlr3.Runtime.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\DataViewModel.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Newtonsoft.Json.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Owin.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Repository.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Services.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Cors.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Helpers.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Mvc.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Optimization.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Razor.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\WebApiContrib.IoC.Ninject.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\WebGrease.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\DataViewModel.pdb
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Repository.pdb
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Services.pdb
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.xml
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.xml
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.xml
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.xml
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.xml
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.xml
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.xml
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Newtonsoft.Json.xml
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.xml
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Helpers.xml
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.xml
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.xml
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Mvc.xml
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Optimization.xml
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Razor.xml
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.xml
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.xml
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.xml
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Antlr3.Runtime.pdb
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\obj\Debug\RCMSWebAPI.dll
+F:\KoshishKamyaabHo neki\21 jan 2021\20 January 2021\RCMSWebAPI\DemoWebAPI\obj\Debug\RCMSWebAPI.pdb
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll.config
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.pdb
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.exe
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.exe.config
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.rsp
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csi.exe
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csi.rsp
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.AppContext.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Collections.Immutable.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.exe
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.exe.config
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.rsp
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe.config
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Antlr3.Runtime.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\DataViewModel.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Web.Infrastructure.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Newtonsoft.Json.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Owin.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Repository.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Services.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Cors.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Helpers.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Mvc.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Optimization.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Razor.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\WebApiContrib.IoC.Ninject.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\WebGrease.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\DataViewModel.pdb
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Repository.pdb
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Services.pdb
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.xml
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.xml
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.xml
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.xml
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.xml
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.xml
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.xml
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Newtonsoft.Json.xml
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.xml
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Helpers.xml
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.xml
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.xml
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Mvc.xml
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Optimization.xml
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Razor.xml
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.xml
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.xml
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.xml
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Antlr3.Runtime.pdb
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\obj\Debug\RCMSWebAPI.dll
+G:\dummy\22 January\20 January 2021\RCMSWebAPI\DemoWebAPI\obj\Debug\RCMSWebAPI.pdb
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll.config
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\RCMSWebAPI.pdb
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.exe
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.exe.config
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csc.rsp
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csi.exe
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\csi.rsp
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.AppContext.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Collections.Immutable.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.exe
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.exe.config
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\vbc.rsp
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe.config
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Antlr3.Runtime.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\DataViewModel.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Newtonsoft.Json.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Owin.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Repository.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Services.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Cors.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Helpers.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Mvc.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Optimization.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Razor.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\WebApiContrib.IoC.Ninject.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\WebGrease.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\DataViewModel.pdb
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Repository.pdb
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Services.pdb
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.xml
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.xml
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.xml
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.xml
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.xml
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.xml
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.xml
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Newtonsoft.Json.xml
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.xml
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Helpers.xml
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.xml
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.xml
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Mvc.xml
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Optimization.xml
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.Razor.xml
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.xml
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.xml
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.xml
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Antlr3.Runtime.pdb
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\obj\Debug\RCMSWebAPI.dll
+F:\KoshishKamyaabHo neki\22 January 2021\RCMSWebAPI\DemoWebAPI\obj\Debug\RCMSWebAPI.pdb
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll.config
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\RCMSWebAPI.pdb
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csc.exe
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csc.exe.config
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csc.rsp
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csi.exe
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csi.rsp
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.AppContext.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.Collections.Immutable.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\vbc.exe
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\vbc.exe.config
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\vbc.rsp
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe.config
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Antlr3.Runtime.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\DataViewModel.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\EntityFramework.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Newtonsoft.Json.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Ninject.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Owin.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Repository.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Services.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Cors.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Helpers.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Http.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Mvc.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Optimization.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Razor.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\WebApiContrib.IoC.Ninject.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\WebGrease.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\DataViewModel.pdb
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Repository.pdb
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Services.pdb
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\EntityFramework.xml
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.xml
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.xml
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.xml
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.xml
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Ninject.xml
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.xml
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Newtonsoft.Json.xml
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.xml
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Helpers.xml
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Http.xml
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.xml
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Mvc.xml
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Optimization.xml
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Razor.xml
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.xml
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.xml
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.xml
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Antlr3.Runtime.pdb
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\obj\Debug\RCMSWebAPI.dll
+F:\KoshishKamyaabHo neki\25 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\obj\Debug\RCMSWebAPI.pdb
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll.config
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\RCMSWebAPI.pdb
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csc.exe
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csc.exe.config
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csc.rsp
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csi.exe
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csi.rsp
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.AppContext.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.Collections.Immutable.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\vbc.exe
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\vbc.exe.config
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\vbc.rsp
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe.config
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Antlr3.Runtime.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\DataViewModel.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\EntityFramework.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Newtonsoft.Json.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Ninject.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Owin.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Repository.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Services.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Cors.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Helpers.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Http.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Mvc.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Optimization.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Razor.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\WebApiContrib.IoC.Ninject.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\WebGrease.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\DataViewModel.pdb
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Repository.pdb
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Services.pdb
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\EntityFramework.xml
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.xml
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.xml
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.xml
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.xml
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Ninject.xml
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.xml
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Newtonsoft.Json.xml
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.xml
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Helpers.xml
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Http.xml
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.xml
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Mvc.xml
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Optimization.xml
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Razor.xml
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.xml
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.xml
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.xml
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Antlr3.Runtime.pdb
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\obj\Debug\RCMSWebAPI.dll
+F:\KoshishKamyaabHo neki\27 jan 2021\InCommander\InCommanderWebAPI\DemoWebAPI\obj\Debug\RCMSWebAPI.pdb
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll.config
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\RCMSWebAPI.pdb
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csc.exe
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csc.exe.config
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csc.rsp
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csi.exe
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csi.rsp
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.AppContext.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.Collections.Immutable.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\vbc.exe
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\vbc.exe.config
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\vbc.rsp
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe.config
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Antlr3.Runtime.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\DataViewModel.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\EntityFramework.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Web.Infrastructure.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Newtonsoft.Json.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Ninject.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Owin.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Repository.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Services.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Cors.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Helpers.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Http.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Mvc.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Optimization.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Razor.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\WebApiContrib.IoC.Ninject.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\WebGrease.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\DataViewModel.pdb
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Repository.pdb
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Services.pdb
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\EntityFramework.xml
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.xml
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.xml
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.xml
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.xml
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Ninject.xml
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.xml
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Newtonsoft.Json.xml
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.xml
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Helpers.xml
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Http.xml
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.xml
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Mvc.xml
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Optimization.xml
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Razor.xml
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.xml
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.xml
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.xml
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Antlr3.Runtime.pdb
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\obj\Debug\RCMSWebAPI.dll
+G:\kendo\28 JAn 2021\InCommanderWebAPI\DemoWebAPI\obj\Debug\RCMSWebAPI.pdb
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll.config
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\RCMSWebAPI.pdb
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csc.exe
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csc.exe.config
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csc.rsp
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csi.exe
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csi.rsp
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.AppContext.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.Collections.Immutable.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\vbc.exe
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\vbc.exe.config
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\vbc.rsp
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe.config
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Antlr3.Runtime.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\DataViewModel.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\EntityFramework.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Newtonsoft.Json.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Ninject.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Owin.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Repository.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Services.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Cors.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Helpers.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Http.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Mvc.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Optimization.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Razor.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\WebApiContrib.IoC.Ninject.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\WebGrease.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\DataViewModel.pdb
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Repository.pdb
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Services.pdb
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\EntityFramework.xml
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.xml
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.xml
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.xml
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.xml
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Ninject.xml
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.xml
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Newtonsoft.Json.xml
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.xml
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Helpers.xml
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Http.xml
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.xml
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Mvc.xml
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Optimization.xml
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Razor.xml
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.xml
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.xml
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.xml
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Antlr3.Runtime.pdb
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\obj\Debug\RCMSWebAPI.dll
+F:\KoshishKamyaabHo neki\29 JAn 2021\InCommanderWebAPI\DemoWebAPI\obj\Debug\RCMSWebAPI.pdb
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll.config
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\RCMSWebAPI.pdb
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csc.exe
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csc.exe.config
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csc.rsp
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csi.exe
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csi.rsp
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.AppContext.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.Collections.Immutable.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\vbc.exe
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\vbc.exe.config
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\vbc.rsp
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe.config
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Antlr3.Runtime.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\DataViewModel.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\EntityFramework.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Newtonsoft.Json.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Ninject.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Owin.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Repository.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Services.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Cors.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Helpers.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Http.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Mvc.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Optimization.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Razor.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\WebApiContrib.IoC.Ninject.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\WebGrease.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\DataViewModel.pdb
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Repository.pdb
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Services.pdb
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\EntityFramework.xml
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.xml
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.xml
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.xml
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.xml
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Ninject.xml
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.xml
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Newtonsoft.Json.xml
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.xml
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Helpers.xml
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Http.xml
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.xml
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Mvc.xml
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Optimization.xml
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Razor.xml
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.xml
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.xml
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.xml
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Antlr3.Runtime.pdb
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\obj\Debug\RCMSWebAPI.dll
+F:\KoshishKamyaabHo neki\30 Jan 2021\InCommanderWebAPI\DemoWebAPI\obj\Debug\RCMSWebAPI.pdb
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\obj\Debug\RCMSWebAPI.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\obj\Debug\RCMSWebAPI.pdb
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll.config
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\RCMSWebAPI.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\RCMSWebAPI.pdb
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csc.exe
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csc.exe.config
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csc.rsp
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csi.exe
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\roslyn\csi.rsp
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.AppContext.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.Collections.Immutable.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\roslyn\vbc.exe
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\roslyn\vbc.exe.config
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\roslyn\vbc.rsp
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\roslyn\VBCSCompiler.exe.config
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Antlr3.Runtime.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\DataViewModel.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\EntityFramework.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Web.Infrastructure.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Newtonsoft.Json.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Ninject.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Owin.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Repository.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Services.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Cors.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Helpers.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Http.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Mvc.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Optimization.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Razor.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\WebApiContrib.IoC.Ninject.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\WebGrease.dll
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\DataViewModel.pdb
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Repository.pdb
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Services.pdb
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\EntityFramework.xml
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\EntityFramework.SqlServer.xml
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.xml
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Cors.xml
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.xml
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Ninject.xml
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Ninject.Extensions.ChildKernel.xml
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Newtonsoft.Json.xml
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\System.Net.Http.Formatting.xml
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Helpers.xml
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Http.xml
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Http.WebHost.xml
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Mvc.xml
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Optimization.xml
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\System.Web.Razor.xml
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.xml
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.Deployment.xml
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\System.Web.WebPages.Razor.xml
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Antlr3.Runtime.pdb
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Enter\98feb\InCommanderWebAPI\DemoWebAPI\obj\Debug\WebAPI.csproj.CopyComplete
